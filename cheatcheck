@@ -8,7 +8,7 @@ O N L Y R O L E P L A Y Searching Your Cheats
                                             
 "@ -ForegroundColor Magenta
 
-Write-Host "Made By bekoNN / Viez911 / breaddyy / Kadoxo For Only Roleplay"
+Write-Host "Made By bekoNN / Viez911 / breaddyy / Kadoxo / cavoxdd For Only Roleplay"
 
 $system32Path = "$env:SystemRoot\System32"
 $desktopPath = [Environment]::GetFolderPath("Desktop")
