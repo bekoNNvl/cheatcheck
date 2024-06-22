@@ -2,8 +2,8 @@ Clear-Host
 
 Write-Host @"
 [38;2;160;32;240;48;2m
-ＯＮＬＹ ＲＯＬＥＰＬＡＹ Searching Your Cheats
                                                              [0m
+ＯＮＬＹ ＲＯＬＥＰＬＡＹ Searching Your Cheats
                                             
 "@ -ForegroundColor Magenta
 
