@@ -2,11 +2,12 @@ Clear-Host
 
 Write-Host @"
 [38;2;160;32;240;48;2m
+ＯＮＬＹ ＲＯＬＥＰＬＡＹ Searching Your Cheats
                                                              [0m
                                             
 "@ -ForegroundColor Magenta
 
-Write-Host "Made By bekoNN / Viez911 / breaddyy For Only Roleplay"
+Write-Host "Made By bekoNN / Viez911 / breaddyy / Kadoxo For Only Roleplay"
 
 $system32Path = "$env:SystemRoot\System32"
 $desktopPath = [Environment]::GetFolderPath("Desktop")
